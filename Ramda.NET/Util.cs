@@ -2,7 +2,7 @@
 
 namespace Ramda.NET
 {
-    public class Class1
+    public static partial class Util
     {
     }
 }
